@@ -16,4 +16,6 @@ public class ViewController {
 
     private Logger logger = Logger.getLogger("ViewController");
 
+    public void test(){}
+
 }
